@@ -9,4 +9,9 @@ public class Test4 {
     void method (){
         System.out.println("Another very useful method");
     }
+
+    void MerryChristmas(){
+
+        System.out.println("Merry Christmas you filthy animals. And a Happy New Year!");
+    }
 }
