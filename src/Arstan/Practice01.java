@@ -7,5 +7,7 @@ public class Practice01 {
         System.out.println("Hello Team");
 
         System.out.println("Hello 01");
+
+        System.out.println("Hello 02");
     }
 }
