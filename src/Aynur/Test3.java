@@ -6,11 +6,11 @@ public class Test3 {
     }
 
 
-           void practice(){
-               System.out.println("We need more practice");
-        }
+    void practice() {
+        System.out.println("We need more practice");
+    }
 
-void program(){
-    System.out.println("Great program for sharing projects");
-}
+    void program() {
+        System.out.println("Great program for sharing projects");
+    }
 }
