@@ -6,5 +6,7 @@ public class GoodDay {
 
         System.out.println("Today is amazing day");
 
+        System.out.println("Today is wednesday");
+
     }
 }
