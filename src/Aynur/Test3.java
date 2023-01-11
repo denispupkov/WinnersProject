@@ -12,5 +12,9 @@ public class Test3 {
 
     void program() {
         System.out.println("Great program for sharing projects");
+        System.out.println("Denis, thank you for your practice");
+
+
+
     }
 }
